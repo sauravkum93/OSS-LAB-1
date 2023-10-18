@@ -1,9 +1,5 @@
-
-C Online Compiler
-
-C Certification ❯
-main.c
-
- Run 
-Output
- Clear 
+# include<stdio.h>
+int main(){
+    printf("hello world");
+return 0;
+}
